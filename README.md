@@ -1,2 +1,2 @@
 # nascent
-An experiment in modeling fabrics 
+An experiment in geo-modeling fabrics 
